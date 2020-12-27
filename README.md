@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![drmikeida's github stats](https://github-readme-stats.vercel.app/api?username=drmikeida)]
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=drmikeida&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=drmikeida&theme=dark&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drmikeida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![drmikeida's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drmikeida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **drmikeida/drmikeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
